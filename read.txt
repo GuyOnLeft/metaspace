@@ -1,4 +1,6 @@
-navigate to dir
+make sure your folder that you wish to read through is in the same directory
 
 python test.py -p <your folder dir>  > output.txt (for writing to an output)
+
+
 
