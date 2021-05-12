@@ -1,0 +1,4 @@
+navigate to dir
+
+python test.py -p <your folder dir>  > output.txt (for writing to an output)
+
